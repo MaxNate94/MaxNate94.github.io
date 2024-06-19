@@ -57,9 +57,10 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: 'mojgan-rezakhani-0a7a1399',
+    scholar: 'https://scholar.google.com/citations?user=V_L90KcAAAAJ&hl=en',
+    twitter: '',
+    mastodon: '',
     researchGate: '',
     facebook: '',
     instagram: '',
@@ -69,14 +70,14 @@ const CONFIG = {
     udemy: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: '',
+    dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://www.arifszn.com',
+    website: 'https://maxnate94.github.io/',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'mojgan.rezakhani8683@gmail.com',
   },
   resume: {
     fileUrl:
@@ -171,7 +172,7 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'lofi',
+    defaultTheme: 'dracula',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
