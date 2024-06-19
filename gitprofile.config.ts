@@ -52,13 +52,12 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio of Mojgan Rezakhani',
     description: '',
     imageURL: '',
   },
   social: {
     linkedin: 'mojgan-rezakhani-0a7a1399',
-    scholar: 'https://scholar.google.com/citations?user=V_L90KcAAAAJ&hl=en',
     twitter: '',
     mastodon: '',
     researchGate: '',
